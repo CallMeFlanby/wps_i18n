@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Direction</source>
-        <translation>Direcção</translation>
+        <translation>Direção</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Perspective</source>
-        <translation>Perspectiva</translation>
+        <translation>Perspetiva</translation>
     </message>
     <message>
         <source>Plastic</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Trazer para a Frente</translation>
+        <translation>Trazer para Cima</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -478,7 +478,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Trazer para a Frente</translation>
+        <translation>Trazer para Cima</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -626,7 +626,7 @@
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores de Letras</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -654,7 +654,7 @@
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="Selecção de Objecto"></translation>
+        <translation type="Seleção de Objeto"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -670,7 +670,7 @@
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>Rectângulo</translation>
+        <translation>Retângulo</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -698,11 +698,11 @@
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Selecionar Objectos</translation>
+        <translation>Selecionar Objetos</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Painel de Selecção</translation>
+        <translation>Painel de Seleção</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -861,7 +861,7 @@
     </message>
     <message>
         <source>Character Border</source>
-        <translation>Contorno do Caractere</translation>
+        <translation>Contorno dos Caracteres</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -889,7 +889,7 @@
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>Anexar caracteres</translation>
+        <translation>Anexar Caracteres</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -972,11 +972,11 @@
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -1000,7 +1000,7 @@
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores das Letras</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -1042,7 +1042,7 @@
     </message>
     <message>
         <source>Protection Form</source>
-        <translation>Protecção do Formulário</translation>
+        <translation>Proteção do Formulário</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
@@ -1160,7 +1160,7 @@ da Página</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation>Correspondencia dos Campos</translation>
+        <translation>Correspondência dos Campos</translation>
     </message>
     <message>
         <source>Merge to Email</source>
@@ -1235,7 +1235,7 @@ da Página</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Actualizar Índice</translation>
+        <translation>Atualizar Índice</translation>
     </message>
 </context>
 <context>
@@ -1424,7 +1424,7 @@ da Página</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
-        <translation>Aceitar Alteração Seleccionada</translation>
+        <translation>Aceitar Alteração Selecionada</translation>
     </message>
     <message>
         <source>All Reviewers</source>
@@ -1468,7 +1468,7 @@ da Página</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation>Rejeitar Todas as Alteração ao Documento</translation>
+        <translation>Rejeitar Todas as Alterações ao Documento</translation>
     </message>
     <message>
         <source>Reject Change / Delete Comment</source>
@@ -1685,7 +1685,7 @@ da Página</translation>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Alterar UI</translation>
+        <translation>Alterar IU</translation>
     </message>
     <message>
         <source>true</source>
@@ -1800,7 +1800,7 @@ da Página</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>Seleccionar Tabela com Limite Tracejado</translation>
+        <translation>Selecionar Tabela com Limite Tracejado</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -1870,7 +1870,7 @@ da Página</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>Por Detrás do Texto</translation>
+        <translation>Por trás do Texto</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -2074,11 +2074,11 @@ da Página</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>Triangulo para Baixo</translation>
+        <translation>Triângulo para Baixo</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>Triangulo para Cima</translation>
+        <translation>Triângulo para Cima</translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -2500,7 +2500,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>Por Detrás do Texto</translation>
+        <translation>Por trás do Texto</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2512,7 +2512,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Trazer para a Frente</translation>
+        <translation>Trazer para Cima</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -2592,19 +2592,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor da Letra</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho da Letra</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatar Objecto</translation>
+        <translation>Formatar Objeto</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -2816,7 +2816,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Direcção do Texto</translation>
+        <translation>Direção do Texto</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -2891,7 +2891,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation>Protecção e Propriedades do Documento</translation>
+        <translation>Proteção e Propriedades do Documento</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -2923,7 +2923,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Kingsoft Facebook</source>
-        <translation>Facebook do Kingsoft</translation>
+        <translation>Facebook da Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -2935,7 +2935,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Portal do Kingsoft Office</translation>
+        <translation>Página do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
@@ -2979,7 +2979,7 @@ Ligado</translation>
     </message>
     <message>
         <source>New from Local Template</source>
-        <translation>Novo baseado em Modelo</translation>
+        <translation>Novo baseado em Modelo Local</translation>
     </message>
     <message>
         <source>New from Online Template</source>
@@ -3055,7 +3055,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Actualização Online</translation>
+        <translation>Atualização Online</translation>
     </message>
     <message>
         <source>WPS New features</source>
@@ -3304,7 +3304,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Distribuido</translation>
+        <translation>Distribuído</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -3312,15 +3312,15 @@ Ligado</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Marca de Enfase</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>Caracteres Balizadores</translation>
+        <translation>Caracteres Incluídos</translation>
     </message>
     <message>
         <source>Enclose Characters...</source>
-        <translation>Caracteres Balizadores...</translation>
+        <translation>Caracteres Incluídos...</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
@@ -3344,19 +3344,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor da Letra</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho da Letra</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -3368,7 +3368,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation>Aumentar Fonte</translation>
+        <translation>Aumentar tamanho da Letra</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -3376,7 +3376,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Home Object Select</source>
-        <translation type="Seleccionar Objecto-Fonte"></translation>
+        <translation type="Selecionar Objeto-Fonte"></translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
@@ -3416,7 +3416,7 @@ Ligado</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores das Letras</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -3476,23 +3476,23 @@ Ligado</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Seleccionar Tudo</translation>
+        <translation>Selecionar Tudo</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Selecionar Objectos</translation>
+        <translation>Selecionar Objetos</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>Seleccionar Tabela com Limite Tracejado</translation>
+        <translation>Selecionar Tabela com Limite Tracejado</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">Painel de Selecção</translation>
+        <translation type="obsolete">Painel de Seleção</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
@@ -3512,7 +3512,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>Diminuir Fonte</translation>
+        <translation>Diminuir tamanho de Letra</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -3536,7 +3536,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="Indentações"></translation>
+        <translation type="Espaçamentos"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -4000,7 +4000,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Actualizar Índice</translation>
+        <translation>Atualizar Índice</translation>
     </message>
 </context>
 <context>
@@ -4374,7 +4374,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Directory Level</source>
-        <translation type="Estrutura do Directório"></translation>
+        <translation type="Estrutura da Pasta"></translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -4386,19 +4386,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor da Letra</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho da Letra</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -4446,7 +4446,7 @@ Ligado</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores das Letras</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
@@ -5134,7 +5134,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translation>Correio</translation>
     </message>
     <message>
         <source>Next Footnote/Endnote</source>
@@ -5146,7 +5146,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>Mostra ou Esconderr Separador de Nota de Rodapé/Nota Final</translation>
+        <translation>Mostra ou Esconder Separador de Nota de Rodapé/Nota Final</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -5158,7 +5158,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Actualizar Índice</translation>
+        <translation>Atualizar Índice</translation>
     </message>
 </context>
 <context>
@@ -5229,7 +5229,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Marcações Finais;Mostrar Marcações Originais;Original</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -5396,7 +5396,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar para a Secção</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -5623,7 +5623,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Direcção</translation>
+        <translation>Direção</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -5667,7 +5667,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>Perspectiva</translation>
+        <translation>Perspetiva</translation>
     </message>
     <message>
         <source>Plastic</source>
@@ -5872,7 +5872,7 @@ Ligar/Desligar</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation>Ajustar Janela Automáticamente</translation>
+        <translation>Ajustar Janela Automaticamente</translation>
     </message>
     <message>
         <source>Average</source>
@@ -5908,7 +5908,7 @@ Ligar/Desligar</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="obsolete">Configurações Detalhadas</translation>
+        <translation>Configurações Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -5924,7 +5924,7 @@ Ligar/Desligar</translation>
     </message>
     <message>
         <source>EmphasisMark</source>
-        <translation>Marca de Enfase</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -5936,19 +5936,19 @@ Ligar/Desligar</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor da Letra</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho da Letra</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -6020,27 +6020,27 @@ Ligar/Desligar</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Select Cell</source>
-        <translation>Seleccionar Célula</translation>
+        <translation>Selecionar Célula</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation>Seleccionar Coluna</translation>
+        <translation>Selecionar Coluna</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation>Seleccionar Linha</translation>
+        <translation>Selecionar Linha</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation>Seleccionar Tabela</translation>
+        <translation>Selecionar Tabela</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>Seleccionar Tabela com Limite Tracejado</translation>
+        <translation>Selecionar Tabela com Limite Tracejado</translation>
     </message>
     <message>
         <source>Split
@@ -6090,11 +6090,11 @@ Células</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Direcção do Texto</translation>
+        <translation>Direção do Texto</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
-        <translation>Opções da Direcção do Texto</translation>
+        <translation>Opções da Direção do Texto</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
@@ -6143,11 +6143,11 @@ Outras Janelas</translation>
     </message>
     <message>
         <source>Compared Side By Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparar lado a lado</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Programador</translation>
     </message>
     <message>
         <source>Document Map</source>
@@ -6725,7 +6725,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Trazer para a Frente</translation>
+        <translation>Trazer para Cima</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -6781,7 +6781,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Customizar</translation>
+        <translation>Personalizar</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -6929,7 +6929,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificado</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -7057,7 +7057,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Estritamente Justificado</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -7081,11 +7081,11 @@ Ligado</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>Triangulo para Baixo</translation>
+        <translation>Triângulo para Baixo</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>Triangulo para Cima</translation>
+        <translation>Triângulo para Cima</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11437,7 +11437,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Marcações Finais;Mostrar Marcações Originais;Original</translation>
     </message>
     <message>
         <source>Highlight</source>
